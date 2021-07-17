@@ -6,7 +6,7 @@
 	"password": "fefa4fb96d834a539044cab3607ad265",
 	"database": "restfulapiDB", 
   "entities": [ 
-    "src/app/models/*.ts"
+    "src/app/models/*.js"
   ],
   "migrations": [  
     "src/database/migrations/*.js"

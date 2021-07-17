@@ -27,6 +27,8 @@
         "semi": [
             "error",
             "never"
-        ]
+        ],
+        "no-mixed-spaces-and-tabs": "off",
+        "@typescript-eslint/explicit-module-boundary-types": "off"
     }
 }
