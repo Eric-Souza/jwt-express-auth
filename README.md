@@ -1,4 +1,4 @@
-# JSON Web Server User Auth
+# JWT Auth
 ## Description
 User authentication system developed in Node (Nest/Express/Typescript) with TypeORM, PostgreSQL and JSON Web Token.
 
